@@ -9,6 +9,7 @@ services:
       - target
     volumes:
       - .:/root
+
   target:
     image: learnchef/inspec_target
     stdin_open: true
