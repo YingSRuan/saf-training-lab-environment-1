@@ -1,0 +1,10 @@
+[
+  {
+    "control_id": "V-40792",
+    "explanation": "Verified that the server-side session management is configured correctly.",
+    "frequency": "3m",
+    "status": "passed",
+    "updated": "2023-02-23T21:09:26.987Z",
+    "updated_by": "Jane Ruan"
+  }
+]
